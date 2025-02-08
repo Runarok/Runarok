@@ -44,7 +44,7 @@ Together, **"RunarokHrafn"** can be interpreted as:
 # Socials
 
 You can explore all my projects and web experiments on my GitHub Pages here:  
-[Runarok GitHub Page](https://runarok.github.io/Runarok/)
+[Runarok GitHub Page](https://runarok.github.io/)
 
 ---
 
