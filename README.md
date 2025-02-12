@@ -63,7 +63,7 @@ Together, **"RunarokHrafn"** can be interpreted as:
   </tr>
   <tr>
     <td align="center">
-      <h3>👋 Hello Visitor Nr</h3>
+      <strong>👋 Hello Visitor Nr</strong>
       <img src="https://profile-counter.glitch.me/Runarok/count.svg?" />
     </td>
   </tr>
