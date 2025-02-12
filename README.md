@@ -46,12 +46,17 @@ Together, **"RunarokHrafn"** can be interpreted as:
 <table>
   <tr>
     <td align="center">
-      <a href="https://runarok.com">
-        <img src="https://github-readme-stats.vercel.app/api?username=Runarok&theme=dracula&count_private=true&hide=prs,issues&show_icons=true" alt="Runarok's github stats">
+      <a>
+        You can explore all my projects on my <strong><a href="https://runarok.github.io/">GitHub Page</a></strong>.
+        <br>
+        <br>
+      </a>
+      <a href="https://github.com/Runarok/">
+        <img src="https://github-readme-stats.vercel.app/api?username=Runarok&theme=dracula&count_private=true&hide=prs,issues&show_icons=true" alt="Runarok's GitHub stats">
       </a>
     </td>
     <td rowspan="2" align="center">
-      <a href="https://runarok.com">
+      <a href="https://github.com/Runarok/">
         <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Runarok&langs_count=10&count_private=true&theme=dracula&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Runarok's top languages">
       </a>
     </td>
@@ -81,7 +86,7 @@ Together, **"RunarokHrafn"** can be interpreted as:
 </div>
 
 <div align="center">
-    <a href="https://runarok.com">
+    <a href="https://github.com/Runarok/">
         <img src="https://github-profile-trophy.vercel.app/?username=Runarok&theme=dracula&no-frame=true&column=2&row=1&rank=SSS,SS,S,A,B,C&repo=created,commits" alt="Runarok's Trophies">
     </a>
 </div>
@@ -90,15 +95,14 @@ Together, **"RunarokHrafn"** can be interpreted as:
 
 ## Socials
 
-You can explore all my projects and web experiments on my GitHub Pages here:  
-[Runarok GitHub Page](https://runarok.github.io/)
 
----
-
-> **I often draw inspiration from various online sources to enhance my projects and am always willing to remove any content that may unintentionally resemble existing code. While I take inspiration from different works, I don't simply copy and paste; instead, I incorporate ideas in a way that reflects my own understanding and creativity.**
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Runarok/Runarok/Snake/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Runarok/Runarok/Snake/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Runarok/Runarok/Snake/github-snake.svg" />
 </picture>
+
+---
+
+> **I often draw inspiration from various online sources to enhance my projects and am always willing to remove any content that may unintentionally resemble existing code. While I take inspiration from different works, I don't simply copy and paste; instead, I incorporate ideas in a way that reflects my own understanding and creativity.**
