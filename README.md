@@ -8,28 +8,26 @@ I enjoy coding and have experience in languages such as C, C++, and Python. Curr
 
 <details>
   <summary><h4>Meaning Behind My UserName</h4></summary><br>
-  <p><strong>"Runarok"</strong> is a combination of two Norse elements:</p>
-  <ul>
-    <li><strong>Runar</strong>: Derived from the word <em>"rún"</em> (meaning <em>"rune"</em> or <em>"mystery"</em> in Old Norse), often associated with ancient symbols used for divination, magic, and wisdom.</li>
-    <li><strong>Rok</strong>: A variation of the word <em>"rök"</em>, meaning <em>"fate"</em> or <em>"doom"</em> in Old Norse, often referring to a significant, transformative event, like the end of the world (<em>Ragnarök</em>).</li>
-  </ul>
   
-  <p><strong>"Runarok"</strong> can be interpreted as:</p>
-  <ul>
-    <li>The <strong>fate of runes</strong> or the <strong>mystery of fate</strong>, combining ancient wisdom and the inevitability of destiny.</li>
-    <li>A powerful, mystical force that brings about change or destruction, evoking images of an inevitable and profound event, like the cataclysmic events in Norse mythology (<em>Ragnarök</em>).</li>
-  </ul>
+**"Runarok"** is a combination of two Norse elements:
+
+- **Runar**: Derived from the word "rún" (meaning "rune" or "mystery" in Old Norse), often associated with ancient symbols used for divination, magic, and wisdom.
+- **Rok**: A variation of the word "rök," meaning "fate" or "doom" in Old Norse, often referring to a significant, transformative event, like the end of the world (Ragnarök).
+
+**"Runarok"** can be interpreted as:
+
+- The **fate of runes** or the **mystery of fate**, combining ancient wisdom and the inevitability of destiny.
+- A powerful, mystical force that brings about change or destruction, evoking images of an inevitable and profound event, like the cataclysmic events in Norse mythology (**Ragnarök**).
+
+**"RunarokHrafn"** is used in some of my profiles, and it adds another element:
+
+- **Hrafn**: Meaning "raven" in Old Norse, this bird is often associated with wisdom, knowledge, and prophecy in Norse mythology. Ravens were considered messengers, often linked to the gods, especially Odin, who had two ravens, Huginn (thought) and Muninn (memory).
+
+Together, **"RunarokHrafn"** can be interpreted as:
+
+- The **mystery of fate** combined with the **wisdom and prophecy of the raven**, suggesting a powerful force that knows and sees the course of destiny.
+- A symbolic blend of ancient wisdom, fate, and the watchful eye of the raven, always observing the unfolding of events.
   
-  <p><strong>"RunarokHrafn"</strong> is used in some of my profiles, and it adds another element:</p>
-  <ul>
-    <li><strong>Hrafn</strong>: Meaning <em>"raven"</em> in Old Norse, this bird is often associated with wisdom, knowledge, and prophecy in Norse mythology. Ravens were considered messengers, often linked to the gods, especially Odin, who had two ravens, Huginn (<em>thought</em>) and Muninn (<em>memory</em>).</li>
-  </ul>
-  
-  <p>Together, <strong>"RunarokHrafn"</strong> can be interpreted as:</p>
-  <ul>
-    <li>The <strong>mystery of fate</strong> combined with the <strong>wisdom and prophecy of the raven</strong>, suggesting a powerful force that knows and sees the course of destiny.</li>
-    <li>A symbolic blend of ancient wisdom, fate, and the watchful eye of the raven, always observing the unfolding of events.</li>
-  </ul>
 </details>
 
 ---
