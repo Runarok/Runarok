@@ -30,8 +30,8 @@ Together, **"RunarokHrafn"** can be interpreted as:
   
 </details>
 
+<!--
 ---
-
 ## GitHub Stats
 
 <div align="center">
@@ -39,10 +39,56 @@ Together, **"RunarokHrafn"** can be interpreted as:
   <a href="https://github.com/runarok"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=runarok&layout=compact&langs_count=6&theme=dracula&background=00000000&border_radius=10"></a>
   <a href="https://github.com/runarok"><img src="https://github-readme-streak-stats.herokuapp.com?user=runarok&theme=dracula&background=00000000&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="runarok" width="80%"/></a>
 </div>
+-->
 
 ---
 
-# Socials
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://runarok.com">
+        <img src="https://github-readme-stats.vercel.app/api?username=Runarok&theme=dracula&count_private=true&hide=prs,issues&show_icons=true" alt="Runarok's github stats">
+      </a>
+    </td>
+    <td rowspan="2" align="center">
+      <a href="https://runarok.com">
+        <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Runarok&langs_count=10&count_private=true&theme=dracula&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Runarok's top languages">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h3>👋 Hello Visitor Nr</h3>
+      <img src="https://profile-counter.glitch.me/Runarok/count.svg?" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/runarok">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=runarok&theme=dracula&background=00000000&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="runarok" width="80%" />
+      </a>
+    </td>
+    <td align="center">
+      <img src="https://readme-jokes.vercel.app/api?theme=dracula" alt="JOTD" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" />
+</div>
+
+<div align="center">
+    <a href="https://runarok.com">
+        <img src="https://github-profile-trophy.vercel.app/?username=Runarok&theme=dracula&no-frame=true&column=2&row=1&rank=SSS,SS,S,A,B,C&repo=created,commits" alt="Runarok's Trophies">
+    </a>
+</div>
+
+---
+
+## Socials
 
 You can explore all my projects and web experiments on my GitHub Pages here:  
 [Runarok GitHub Page](https://runarok.github.io/)
