@@ -52,7 +52,7 @@ You can explore all my projects and web experiments on my GitHub Pages here:
 > **I often draw inspiration from various online sources to enhance my projects and am always willing to remove any content that may unintentionally resemble existing code. While I take inspiration from different works, I don't simply copy and paste; instead, I incorporate ideas in a way that reflects my own understanding and creativity.**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Runarok/Runarok/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Runarok/Runarok/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Runarok/Runarok/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Runarok/Runarok/Snake/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Runarok/Runarok/Snake/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Runarok/Runarok/Snake/github-snake.svg" />
 </picture>
