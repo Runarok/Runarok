@@ -74,20 +74,22 @@ Together, **"RunarokHrafn"** can be interpreted as:
       </a>
     </td>
     <td align="center">
-      <img src="https://readme-jokes.vercel.app/api?theme=dracula" alt="JOTD" />
+      <img src="https://github-profile-trophy.vercel.app/?username=Runarok&theme=dracula&no-frame=true&column=2&row=1&rank=SSS,SS,S,A,B,C&repo=created,commits" alt="Runarok's Trophies">
     </td>
   </tr>
 </table>
 
-<br/>
+<br>
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" />
 </div>
 
+<br>
+
 <div align="center">
     <a href="https://github.com/Runarok/">
-        <img src="https://github-profile-trophy.vercel.app/?username=Runarok&theme=dracula&no-frame=true&column=2&row=1&rank=SSS,SS,S,A,B,C&repo=created,commits" alt="Runarok's Trophies">
+        <img src="https://readme-jokes.vercel.app/api?theme=dracula" alt="JOTD" />
     </a>
 </div>
 
