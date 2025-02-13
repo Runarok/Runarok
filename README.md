@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a coder based in Bengaluru, Karnataka, India, 
 I enjoy coding and have experience in languages such as C, C++, and Python. Currently, I primarily work with HTML, CSS, and Java. Most of my projects are built with basic HTML coding that I've learned along the way, often utilizing online resources and tools like ChatGPT. I want to be clear: I don’t intend to present myself as a great coder; my work is mainly basic, and anyone interested is welcome to use and improve upon it. Coding has been a passion of mine, and I've invested a lot of time into these projects.
 
 <details>
-  <summary><h4>Meaning Behind My UserName</h4></summary><br>
+  <summary><strong>Meaning Behind My UserName</strong></summary><br>
   
 **"Runarok"** is a combination of two Norse elements:
 
