@@ -1,10 +1,20 @@
-# <img src="Logo.png" alt="Runarok Logo" width="50" style="vertical-align: middle;"> My GitHub
+<div align="center">
+    <img src="Logo.png" alt="Runarok Logo" width="60" style="vertical-align: middle; padding-right: 10px;">
+    <h1>Welcome to My GitHub! 👋</h1>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+I'm+Runarok!;" alt="Typing Effect" />
+</div>
 
-Welcome to my GitHub profile! I'm a coder based in Bengaluru, Karnataka, India, with a passion for manga, anime, music, and movies. Here, you'll find a collection of my projects, including games and various web experiments.
+<p align="center">
+    <strong>Hey there! I'm Runarok</strong>, a passionate coder from Bengaluru, Karnataka, India. 🚀  
+    I'm into *manga*, *anime*, *music*, and *movies*, and love experimenting with code. 🎮🎶🎬  
+    Here on my GitHub, you'll find an exciting collection of my personal projects: everything from interactive games to web experiments and more. Explore, fork, or just enjoy the code! 😄
+</p>
 
 ## About Me
 
-I enjoy coding and have experience in languages such as C, C++, and Python. Currently, I primarily work with HTML, CSS, and Java. Most of my projects are built with basic HTML coding that I've learned along the way, often utilizing online resources and tools like ChatGPT. I want to be clear: I don’t intend to present myself as a great coder; my work is mainly basic, and anyone interested is welcome to use and improve upon it. Coding has been a passion of mine, and I've invested a lot of time into these projects.
+I have a strong passion for coding and am proficient in languages such as C, C++, and Python. These days, I mainly work with HTML, CSS, and JavaScript, combining my knowledge and new resources I discover. Most of my projects are simple and built using basic HTML, but I always aim to learn and improve. Feel free to explore my code and make any modifications you'd like! 🎨💻
+
+Coding is a continuous journey for me, and I'm always looking for new ways to improve my skills and share my knowledge. 😄✨
 
 <details>
   <summary><strong>Meaning Behind My UserName</strong></summary><br>
@@ -30,51 +40,37 @@ Together, **"RunarokHrafn"** can be interpreted as:
   
 </details>
 
-<!--
----
-## GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/runarok"><img height="180em" src="https://github-readme-stats.vercel.app/api/?username=runarok&show_icons=true&theme=dracula&background=00000000&include_all_commits=true&count_private=true&hide=prs&border_radius=10&hide_title=true"></a> &nbsp; &nbsp;
-  <a href="https://github.com/runarok"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=runarok&layout=compact&langs_count=6&theme=dracula&background=00000000&border_radius=10"></a>
-  <a href="https://github.com/runarok"><img src="https://github-readme-streak-stats.herokuapp.com?user=runarok&theme=dracula&background=00000000&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="runarok" width="80%"/></a>
-</div>
--->
-
 ---
 
-<table>
+<table align="center">
   <tr>
     <td align="center">
-      <a>
-        You can explore all my projects on my <strong><a href="https://runarok.github.io/">GitHub Page</a></strong>.
-        <br>
-        <br>
-      </a>
+      You can explore all my projects on my <strong><a href="https://runarok.github.io/">GitHub Page</a></strong>.
+      <br><br>
       <a href="https://github.com/Runarok/">
-        <img src="https://github-readme-stats.vercel.app/api?username=Runarok&theme=dracula&count_private=true&hide=prs,issues&show_icons=true" alt="Runarok's GitHub stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=Runarok&theme=react&count_private=true&hide=prs,issues&show_icons=true" alt="Runarok's GitHub stats">
       </a>
     </td>
     <td rowspan="2" align="center">
       <a href="https://github.com/Runarok/">
-        <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Runarok&langs_count=10&count_private=true&theme=dracula&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Runarok's top languages">
+        <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Runarok&langs_count=10&count_private=true&theme=react&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Runarok's top languages">
       </a>
     </td>
   </tr>
   <tr>
-    <td align="center" text-align: center;">
-      <strong>👋 Hello Visitor Nr </strong>
+    <td align="center">
+      <strong>👋 Hello Visitor Nr</strong>
       <img src="https://profile-counter.glitch.me/Runarok/count.svg?" />
     </td>
   </tr>
   <tr>
     <td align="center">
       <a href="https://github.com/runarok">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=runarok&theme=dracula&background=00000000&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="runarok" width="80%" />
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=runarok&theme=react&background=00000000&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Runarok's Streak Stats" width="80%" />
       </a>
     </td>
     <td align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=Runarok&theme=dracula&no-frame=true&column=2&row=1&rank=SSS,SS,S,A,B,C&repo=created,commits" alt="Runarok's Trophies">
+      <img src="https://github-profile-trophy.vercel.app/?username=Runarok&theme=react&no-frame=true&column=2&row=1&rank=SSS,SS,S,A,B,C&repo=created,commits" alt="Runarok's Trophies">
     </td>
   </tr>
 </table>
@@ -82,22 +78,20 @@ Together, **"RunarokHrafn"** can be interpreted as:
 <br>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react" />
 </div>
 
 <br>
 
 <div align="center">
     <a href="https://github.com/Runarok/">
-        <img src="https://readme-jokes.vercel.app/api?theme=dracula" alt="JOTD" />
+        <img src="https://readme-jokes.vercel.app/api?theme=react" alt="Joke of the Day" />
     </a>
 </div>
 
 ---
 
 ## Socials
-
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Runarok/Runarok/Snake/github-snake-dark.svg" />
@@ -108,3 +102,14 @@ Together, **"RunarokHrafn"** can be interpreted as:
 ---
 
 > **I often draw inspiration from various online sources to enhance my projects and am always willing to remove any content that may unintentionally resemble existing code. While I take inspiration from different works, I don't simply copy and paste; instead, I incorporate ideas in a way that reflects my own understanding and creativity.**
+
+<!--
+---
+## GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/runarok"><img height="180em" src="https://github-readme-stats.vercel.app/api/?username=runarok&show_icons=true&theme=react&background=00000000&include_all_commits=true&count_private=true&hide=prs&border_radius=10&hide_title=true"></a> &nbsp; &nbsp;
+  <a href="https://github.com/runarok"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=runarok&layout=compact&langs_count=6&theme=react&background=00000000&border_radius=10"></a>
+  <a href="https://github.com/runarok"><img src="https://github-readme-streak-stats.herokuapp.com?user=runarok&theme=react&background=00000000&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="runarok" width="80%"/></a>
+</div>
+-->
