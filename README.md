@@ -1,9 +1,9 @@
 <div align="center">
-    <img src="Logo.png" alt="Runarok Logo" width="60" style="vertical-align: middle; padding-right: 10px;">
-    <h1>Welcome to My GitHub! 👋</h1>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+I'm+Runarok!;Welcome+to+my+page!;" alt="Typing Effect" />
-    
+    <img src="Logo.png" alt="Runarok Logo" width="60" style="vertical-align: middle; padding-right: 10px;"><br>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+I'm+Runarok!;Welcome+to+my+GitHub+👋!;" alt="Typing Effect" />
 </div>
+
+---
 
 <p align="center">
     <strong>Hey there! I'm Runarok</strong>, a passionate coder from Bengaluru, Karnataka, India. 🚀  
