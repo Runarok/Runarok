@@ -70,7 +70,7 @@ Together, **"RunarokHrafn"** can be interpreted as:
       </a>
     </td>
     <td align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=Runarok&theme=react&no-frame=true&column=2&row=1&rank=SSS,SS,S,A,B,C&repo=created,commits" alt="Runarok's Trophies">
+      <img src="https://github-profile-trophy.vercel.app/?username=Runarok&theme=dracula&no-frame=true&column=2&row=1&rank=SSS,SS,S,A,B,C&repo=created,commits" alt="Runarok's Trophies">
     </td>
   </tr>
 </table>
