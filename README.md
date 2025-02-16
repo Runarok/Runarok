@@ -75,19 +75,7 @@ Together, **"RunarokHrafn"** can be interpreted as:
   </tr>
 </table>
 
-<br>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react" />
-</div>
-
-<br>
-
-<div align="center">
-    <a href="https://github.com/Runarok/">
-        <img src="https://readme-jokes.vercel.app/api?theme=react" alt="Joke of the Day" />
-    </a>
-</div>
+---
 
 <div align="center">
   <picture>
@@ -95,6 +83,20 @@ Together, **"RunarokHrafn"** can be interpreted as:
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Runarok/Runarok/Snake/github-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/Runarok/Runarok/Snake/github-snake.svg" />
   </picture>
+</div>
+
+&nbsp;
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react" alt="Quote" />
+</div>
+
+&nbsp;
+
+<div align="center">
+  <a href="https://github.com/Runarok">
+    <img src="https://readme-jokes.vercel.app/api?theme=react" alt="Joke of the Day" />
+  </a>
 </div>
 
 ---
