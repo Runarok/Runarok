@@ -107,6 +107,8 @@ Together, **"RunarokHrafn"** can be interpreted as:
 
 ---
 
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Runarok&theme=github-dark-dimmed&custom_title=Runarok%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 > **I often draw inspiration from various online sources to enhance my projects and am always willing to remove any content that may unintentionally resemble existing code. While I take inspiration from different works, I don't simply copy and paste; instead, I incorporate ideas in a way that reflects my own understanding and creativity.**
 
 <!--
