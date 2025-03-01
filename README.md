@@ -111,4 +111,7 @@ Together, **"RunarokHrafn"** can be interpreted as:
   <a href="https://github.com/runarok"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=runarok&layout=compact&langs_count=6&theme=react&background=00000000&border_radius=10"></a>
   <a href="https://github.com/runarok"><img src="https://github-readme-streak-stats.herokuapp.com?user=runarok&theme=react&background=00000000&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="runarok" width="80%"/></a>
 </div>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=runarok&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 -->
