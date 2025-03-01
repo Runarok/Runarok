@@ -5,6 +5,13 @@
 
 ---
 
+<!--
+<p  align="center">
+  <img src="https://raw.githubusercontent.com/Runarok/Runarok/Main/profile-summary-card-output/default/0-profile-details.svg" alt="github stats"></br>
+  <img src="https://raw.githubusercontent.com/Runarok/Runarok/Main/profile-summary-card-output/default/1-repos-per-language.svg">
+  <img src="https://raw.githubusercontent.com/Runarok/Runarok/Main/profile-summary-card-output/default/2-most-commit-language.svg"></br></p>
+  --->
+  
 <p align="center">
     <strong>Hey there! I'm Runarok</strong>, a passionate coder from Bengaluru, Karnataka, India. 🚀  
     I'm into *manga*, *anime*, *music*, and *movies*, and love experimenting with code. 🎮🎶🎬  
