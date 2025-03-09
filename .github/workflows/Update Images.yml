@@ -1,0 +1,32 @@
+name: Update Images
+
+on:
+  schedule:
+    - cron: '0 2 * * *'  # Run at 2 AM UTC every day
+  workflow_dispatch:
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Download top languages stats image
+        run: |
+          curl -L -o assets/top-langs.png "https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Runarok&langs_count=10&count_private=true&theme=react&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"
+
+      - name: Download streak stats image
+        run: |
+          curl -L -o assets/streak.png "https://github-readme-streak-stats.herokuapp.com?user=runarok&theme=react&background=00000000&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
+
+      - name: Commit and push stats images to ASSETS branch
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git checkout -b ASSETS || git checkout ASSETS  # Create or checkout ASSETS branch
+          mkdir -p assets
+          git add assets/top-langs.png assets/streak.png  # This will automatically overwrite the images if they exist
+          git commit -m "Update stats images" || echo "No changes to commit"  # Avoid errors if no changes are made
+          git push origin ASSETS --force
