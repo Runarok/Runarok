@@ -27,24 +27,13 @@ Coding is a continuous journey for me, and I'm always looking for new ways to im
 <details>
   <summary><strong>Meaning Behind My UserName</strong></summary><br>
   
-**"Runarok"** is a combination of two Norse elements:
+- **Runar**: from Old Norse “rún” — rune, mystery, ancient knowledge  
+- **Rok**: from “rök” — fate, destiny, sometimes doom (like *Ragnarök*)  
+- **Runarok**: the mystery of fate. A name that blends ancient symbols with inevitable change — not loud, but powerful  
+- **Hrafn**: raven in Old Norse — wisdom, memory, watcher. Linked to Odin’s ravens Huginn (thought) and Muninn (memory)  
+- **RunarokHrafn**: a quiet observer of fate. Symbolic of prophecy, endings, and insight — someone who sees patterns, not just chaos.
 
-- **Runar**: Derived from the word "rún" (meaning "rune" or "mystery" in Old Norse), often associated with ancient symbols used for divination, magic, and wisdom.
-- **Rok**: A variation of the word "rök," meaning "fate" or "doom" in Old Norse, often referring to a significant, transformative event, like the end of the world (Ragnarök).
-
-**"Runarok"** can be interpreted as:
-
-- The **fate of runes** or the **mystery of fate**, combining ancient wisdom and the inevitability of destiny.
-- A powerful, mystical force that brings about change or destruction, evoking images of an inevitable and profound event, like the cataclysmic events in Norse mythology (**Ragnarök**).
-
-**"RunarokHrafn"** is used in some of my profiles, and it adds another element:
-
-- **Hrafn**: Meaning "raven" in Old Norse, this bird is often associated with wisdom, knowledge, and prophecy in Norse mythology. Ravens were considered messengers, often linked to the gods, especially Odin, who had two ravens, Huginn (thought) and Muninn (memory).
-
-Together, **"RunarokHrafn"** can be interpreted as:
-
-- The **mystery of fate** combined with the **wisdom and prophecy of the raven**, suggesting a powerful force that knows and sees the course of destiny.
-- A symbolic blend of ancient wisdom, fate, and the watchful eye of the raven, always observing the unfolding of events.
+For a breakdown of all my past usernames and their meanings, check out the [Username Breakdown](Usernames.md).
   
 </details>
 
